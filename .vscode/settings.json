@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net5.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/4412e998-f822-425d-b9e1-bcee1c179f43/resourceGroups/wxg-azure-webapp/providers/Microsoft.Web/sites/wxg-azure-webapp"
+}
